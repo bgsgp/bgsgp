@@ -22,7 +22,7 @@
 
 <br>
 
-**[PCE2](https://github.com/bgsgp/PCE2) · 物理版象棋2·时空回忆之旅**：基于 Unity 6 (Universal 2D) 的物理版象棋原型，把传统中国象棋规则和「世界主题」机制揉在一起 —— 丐帮集团第一院·物理版象棋开发与研究院™ 荣誉出品。
+**[PCE2](https://github.com/bgsgp/PCE2) · 物理版象棋2·时空回忆之旅**：基于 Unity 6 (Universal 2D) 的物理版象棋原型，把传统中国象棋规则和「世界主题」机制揉在一起 —— 丐帮集团第一院·物理版象棋开发与研究院™ × 丐帮集团第五院·中央编程院™ 荣誉出品。
 
 - **Tech:** C# / Unity 6 (URP 2D) / UGUI / Resources 动态加载
 - **Progress:** v0.2 Alpha · 9×5 暗棋棋盘 · 16 种高清红绿棋子素材 · 翻棋定阵营已实装
@@ -33,13 +33,13 @@
 ### Skills & Tech Stack / 技术栈
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,unity6,py,js,innosetup,html,css,dotnet,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,unity,py,js,html,css,dotnet,git,github,vscode,visualstudio" />
 </p>
 
 - **Languages:** C# / Python / JavaScript / TypeScript / HTML5 / CSS
 - **Desktop & Game:** .NET / Unity 6 (URP 2D) / UGUI / Inno Setup 打包
 - **AI & Audio:** GPT-SoVITS 语音克隆 · DNSMOS 自然度评估 · PyTorch 学习中
-- **Interests:** 蔚蓝档案（渚 / 未花 / Mika 推）· 逆向工程 · 游戏解包与本地化 · 二次元 UI 复刻
+- **Interests:** 蔚蓝档案（爱丽丝 & 柯伊 / 未花 / 圣亚 推）· 逆向工程 · 游戏解包与本地化 · 二次元 UI 复刻
 
 ---
 
@@ -53,7 +53,7 @@
   />
   <source
     srcset="https://stats.dogxi.me/api/top-langs/?username=bgsgp&hide_border=true"
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark)"
   />
   <img src="https://stats.dogxi.me/api/top-langs/?username=bgsgp&hide_border=true" />
 </picture>
