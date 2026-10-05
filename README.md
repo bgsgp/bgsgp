@@ -33,7 +33,7 @@
 ### Skills & Tech Stack / 技术栈
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,unity,py,js,ts,html,css,dotnet,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,unity6,py,js,innosetup,html,css,dotnet,git,github,vscode,visualstudio" />
 </p>
 
 - **Languages:** C# / Python / JavaScript / TypeScript / HTML5 / CSS
@@ -70,10 +70,10 @@
     <img src="https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ" />
   </a>
   <a href="mailto:beggarsgroup.lyy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://x.com/DoghostZero" target="_blank">
-    <img src="https://img.shields.io/badge/X-%40DoghostZero-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-%40DoghostZero-000000?style=for-the-badge&logo=x&logoColor=white" alt="" />
   </a>
 </p>
 
@@ -82,12 +82,12 @@
     <img src="https://img.shields.io/badge/%E9%9B%86%E5%9B%A2%E5%AE%98%E7%BD%91-bggp.dpdns.org-2ea44f?style=for-the-badge" alt="集团官网" />
   </a>
   <a href="https://bggp.dpdns.org/1" target="_blank">
-    <img src="https://img.shields.io/badge/%E7%AC%AC%E4%B8%80%E9%99%A2%E5%AE%98%E7%BD%91-bggp.dpdns.org%2F1-1f6feb?style=for-the-badge" alt="第一院官网" />
+    <img src="https://img.shields.io/badge/%E7%AC%AC%E4%B8%80%E9%99%A2%E5%AE%98%E7%BD%91-bggp.dpdns.org%2F1-1f6feb?style=for-the-badge" alt="本院官网" />
   </a>
 </p>
 
 - **QQ 群：** 集团 `1047918019` · 第一院 `1004120256`
-- **备用 QQ：** `2157293965` / `3603360255`
+- **本人 QQ：** `2157293965` / `3603360255`
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=bgsgp&label=Profile%20Views&color=blue&style=flat-square" />
